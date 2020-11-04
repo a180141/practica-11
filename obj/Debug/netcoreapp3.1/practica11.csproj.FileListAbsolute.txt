@@ -35,3 +35,5 @@ C:\Users\HP\Desktop\practica11\obj\Debug\netcoreapp3.1\practica11.dll
 C:\Users\HP\Desktop\practica11\obj\Debug\netcoreapp3.1\practica11.pdb
 C:\Users\HP\Desktop\practica11\obj\Debug\netcoreapp3.1\practica11.genruntimeconfig.cache
 C:\Users\HP\Desktop\practica11\obj\Debug\netcoreapp3.1\practica11.csproj.CopyComplete
+C:\Users\HP\Desktop\practica11\obj\Debug\netcoreapp3.1\Razor\Views\Home\nosotros.cshtml.g.cs
+C:\Users\HP\Desktop\practica11\obj\Debug\netcoreapp3.1\Razor\Views\Home\rutas.cshtml.g.cs

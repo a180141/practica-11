@@ -22,11 +22,20 @@ namespace practica11.Controllers
         {
             return View();
         }
+        public IActionResult rutas()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
             return View();
         }
+        public IActionResult nosotros()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
